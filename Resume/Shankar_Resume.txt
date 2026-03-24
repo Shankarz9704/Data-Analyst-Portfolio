@@ -1,60 +1,82 @@
-SHANKAR BAPANAPALLI
-Bangalore, India | +91-7842161185 | Mail | LinkedIn | GitHub
+📄 BAPANAPALLI SHANKAR
 
-PROFESSIONAL SUMMARY
-Computer Science graduate with hands-on experience in data analysis, SQL, and Python. Skilled in data cleaning, exploratory data analysis (EDA), and dashboard creation using Excel and Google Sheets. Strong ability to derive actionable insights and support business decision-making.
+📍 Bangalore, India
+📞 +91-7842161185
+📧 shankar20040929@gmail.com
+🔗 linkedin.com/in/shankar9704
+🔗 github.com/Shankarz9704
 
-TECHNICAL SKILLS
-- Programming: Python, SQL
-- Data Analytics: Data Cleaning, Data Validation, EDA, Data Visualization
-- Tools: Excel (VLOOKUP, Pivot Tables), Google Sheets, Jupyter Notebook
-- Libraries: Pandas, NumPy, Matplotlib
-- Databases: MySQL
-- Big Data: Basic PySpark (DataFrames, transformations, filtering)
+---
 
-PROJECTS
-Sales Data Analysis
-• Analyzed sales data using Python and SQL to identify trends and patterns.
-• Performed data cleaning and transformation for accurate reporting.
-• Created dashboards using Excel to visualize business performance.
-• Generated insights to support decision-making.
+🎯 PROFESSIONAL SUMMARY
+Aspiring Data Analyst with hands-on experience in analyzing business datasets, building dashboards, and generating actionable insights. Skilled in Python, SQL, Excel, and Power BI. Strong analytical mindset with interest in sales, inventory, and operational data analysis.
 
-Customer Churn Prediction
-• Built predictive model using Logistic Regression.
-• Performed data preprocessing and feature engineering.
-• Conducted EDA to identify key churn factors.
-• Improved model performance through evaluation and tuning.
+---
 
-INTERNSHIP EXPERIENCE
-AI Data Analyst Intern | Rooman Technologies, Bangalore | Mar 2025 – May 2025
-• Collected, cleaned, and analyzed datasets using Python and SQL.
-• Performed data validation and preprocessing.
-• Conducted exploratory data analysis (EDA).
-• Created dashboards using Excel and Google Sheets.
-• Delivered insights for business decision-making.
+🛠️ TECHNICAL SKILLS
+Programming: Python, SQL
+Data Analysis: Data Cleaning, Data Transformation, EDA, Reporting
+Excel/Sheets: Pivot Tables, VLOOKUP, Conditional Formatting, Charts
+Visualization: Power BI, Excel Dashboards
+Tools: Excel, Google Sheets, Jupyter Notebook, Git
+Databases: MySQL
 
-AI-ML Intern | BlackBucks, Remote | Jan 2025 – Mar 2025
-• Assisted in data preprocessing and cleaning for ML models.
-• Used Pandas and NumPy for data analysis.
-• Supported model evaluation and testing.
-• Collaborated on data-driven solutions.
+---
 
-PROFESSIONAL EXPERIENCE
-Technical Support Engineer | Altruist Technologies Pvt. Ltd., Bangalore | 2025 – Present
-• Resolved technical issues and ensured SLA compliance.
-• Performed troubleshooting and root cause analysis.
-• Managed incident tickets and maintained logs.
-• Collaborated with teams to resolve escalations.
+💼 PROFESSIONAL EXPERIENCE
 
-CERTIFICATIONS
-• Data Analytics Certification – ExcelR
-• Python for Data Science – ExcelR
-• SQL for Data Analysis – Advanced Queries
-• Microsoft Excel for Data Analysis – Dashboards
-• Machine Learning Fundamentals
+Technical Support Engineer (Technical Expert)
+Altruist Technologies Pvt. Ltd., Bangalore | 2025 – Mar 2026
+- Analyzed system and operational data to identify issues and trends
+- Performed root cause analysis and generated performance reports
+- Ensured SLA compliance through structured reporting and monitoring
+- Collaborated with teams to resolve data-related issues
 
-EDUCATION
-B.Tech – Computer Science and Engineering | Sri Venkateswara Engineering College | 2021 – 2025 — 75%
+---
 
-LANGUAGES
-English, Telugu, Hindi
+🎓 INTERNSHIP EXPERIENCE
+
+AI Data Analyst Intern
+Rooman Technologies, Bangalore | Mar 2025 – May 2025
+- Collected, cleaned, and analyzed datasets using Python and SQL
+- Built dashboards and reports using Excel and Google Sheets
+- Identified trends and generated insights for business decisions
+
+AI-ML Intern
+BlackBucks (Remote) | Jan 2025 – Mar 2025
+- Performed data preprocessing and feature engineering
+- Analyzed datasets using Pandas and NumPy
+- Supported model evaluation and reporting
+
+---
+
+📊 PROJECTS
+
+🔹 Sales & Inventory Data Analysis
+- Analyzed sales and inventory dataset using Python and SQL
+- Created dashboards using Excel and Power BI
+- Identified top-performing products and inventory trends
+
+🔹 Customer Data Analysis
+- Performed data cleaning and analysis using Python
+- Identified customer behavior patterns
+- Created visual reports for insights
+
+---
+
+📜 CERTIFICATIONS
+- IBM Data Analytics with Excel and R Professional Certificate
+- SQL and Relational Databases 101 – IBM
+- Data Analytics Certification – ExcelR
+- Machine Learning Fundamentals
+
+---
+
+🎓 EDUCATION
+B.Tech – Computer Science and Engineering
+Sri Venkateswara Engineering College | 2021 – 2025
+
+---
+
+🌐 LANGUAGES
+English (Proficient), Telugu (Native), Hindi (Intermediate)
