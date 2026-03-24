@@ -1,0 +1,59 @@
+-- 1. Create the sales table
+CREATE TABLE sales (
+  id INT PRIMARY KEY,
+  sale_date DATE,
+  region VARCHAR(50),
+  category VARCHAR(50),
+  product VARCHAR(50),
+  sales_amount DECIMAL(10, 2),
+  cost DECIMAL(10, 2)
+);
+
+-- 2. Insert sample data (this matches the Excel dataset)
+INSERT INTO sales (id, sale_date, region, category, product, sales_amount, cost) VALUES
+(1, '2023-01-15', 'North', 'Electronics', 'Laptop', 1200, 800),
+(2, '2023-01-18', 'South', 'Furniture', 'Chair', 150, 80),
+(3, '2023-02-05', 'East', 'Electronics', 'Smartphone', 800, 500),
+(4, '2023-02-12', 'West', 'Clothing', 'Jacket', 120, 60),
+(5, '2023-03-01', 'North', 'Furniture', 'Desk', 350, 200),
+(6, '2023-03-15', 'South', 'Electronics', 'Tablet', 450, 300),
+(7, '2023-04-02', 'East', 'Clothing', 'T-Shirt', 25, 10),
+(8, '2023-04-18', 'West', 'Electronics', 'Monitor', 300, 180),
+(9, '2023-05-10', 'North', 'Clothing', 'Jeans', 60, 30),
+(10, '2023-05-22', 'South', 'Furniture', 'Sofa', 900, 550),
+(11, '2023-06-05', 'East', 'Electronics', 'Laptop', 1200, 800),
+(12, '2023-06-20', 'West', 'Furniture', 'Chair', 150, 80),
+(13, '2023-07-08', 'North', 'Clothing', 'Jacket', 120, 60),
+(14, '2023-07-25', 'South', 'Electronics', 'Smartphone', 800, 500),
+(15, '2023-08-12', 'East', 'Furniture', 'Desk', 350, 200),
+(16, '2023-08-28', 'West', 'Electronics', 'Tablet', 450, 300),
+(17, '2023-09-15', 'North', 'Clothing', 'T-Shirt', 25, 10),
+(18, '2023-09-30', 'South', 'Electronics', 'Monitor', 300, 180),
+(19, '2023-10-10', 'East', 'Clothing', 'Jeans', 60, 30),
+(20, '2023-10-25', 'West', 'Furniture', 'Sofa', 900, 550);
+
+-- 3. Total Sales Query
+-- Objective: Find the total revenue generated.
+SELECT SUM(sales_amount) as total_sales FROM sales;
+
+-- 4. Sales by Region
+-- Objective: Understand which region performs the best.
+SELECT region, SUM(sales_amount) as total_sales
+FROM sales
+GROUP BY region
+ORDER BY total_sales DESC;
+
+-- 5. Sales by Category
+-- Objective: Understand which product category generates the most revenue.
+SELECT category, SUM(sales_amount) as total_sales
+FROM sales
+GROUP BY category
+ORDER BY total_sales DESC;
+
+-- 6. Profit Calculation
+-- Objective: Calculate the total profit (Revenue - Cost).
+SELECT 
+    SUM(sales_amount) as total_revenue,
+    SUM(cost) as total_cost,
+    SUM(sales_amount - cost) as total_profit
+FROM sales;

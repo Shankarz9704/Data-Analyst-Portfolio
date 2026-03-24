@@ -1,0 +1,60 @@
+SHANKAR BAPANAPALLI
+Bangalore, India | +91-7842161185 | Mail | LinkedIn | GitHub
+
+PROFESSIONAL SUMMARY
+Computer Science graduate with hands-on experience in data analysis, SQL, and Python. Skilled in data cleaning, exploratory data analysis (EDA), and dashboard creation using Excel and Google Sheets. Strong ability to derive actionable insights and support business decision-making.
+
+TECHNICAL SKILLS
+- Programming: Python, SQL
+- Data Analytics: Data Cleaning, Data Validation, EDA, Data Visualization
+- Tools: Excel (VLOOKUP, Pivot Tables), Google Sheets, Jupyter Notebook
+- Libraries: Pandas, NumPy, Matplotlib
+- Databases: MySQL
+- Big Data: Basic PySpark (DataFrames, transformations, filtering)
+
+PROJECTS
+Sales Data Analysis
+• Analyzed sales data using Python and SQL to identify trends and patterns.
+• Performed data cleaning and transformation for accurate reporting.
+• Created dashboards using Excel to visualize business performance.
+• Generated insights to support decision-making.
+
+Customer Churn Prediction
+• Built predictive model using Logistic Regression.
+• Performed data preprocessing and feature engineering.
+• Conducted EDA to identify key churn factors.
+• Improved model performance through evaluation and tuning.
+
+INTERNSHIP EXPERIENCE
+AI Data Analyst Intern | Rooman Technologies, Bangalore | Mar 2025 – May 2025
+• Collected, cleaned, and analyzed datasets using Python and SQL.
+• Performed data validation and preprocessing.
+• Conducted exploratory data analysis (EDA).
+• Created dashboards using Excel and Google Sheets.
+• Delivered insights for business decision-making.
+
+AI-ML Intern | BlackBucks, Remote | Jan 2025 – Mar 2025
+• Assisted in data preprocessing and cleaning for ML models.
+• Used Pandas and NumPy for data analysis.
+• Supported model evaluation and testing.
+• Collaborated on data-driven solutions.
+
+PROFESSIONAL EXPERIENCE
+Technical Support Engineer | Altruist Technologies Pvt. Ltd., Bangalore | 2025 – Present
+• Resolved technical issues and ensured SLA compliance.
+• Performed troubleshooting and root cause analysis.
+• Managed incident tickets and maintained logs.
+• Collaborated with teams to resolve escalations.
+
+CERTIFICATIONS
+• Data Analytics Certification – ExcelR
+• Python for Data Science – ExcelR
+• SQL for Data Analysis – Advanced Queries
+• Microsoft Excel for Data Analysis – Dashboards
+• Machine Learning Fundamentals
+
+EDUCATION
+B.Tech – Computer Science and Engineering | Sri Venkateswara Engineering College | 2021 – 2025 — 75%
+
+LANGUAGES
+English, Telugu, Hindi
