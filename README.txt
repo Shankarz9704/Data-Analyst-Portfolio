@@ -28,6 +28,11 @@ Bangalore, India | +91-7842161185 | [Email](mailto:shankar20040929@gmail.com) | 
 - Identified customer behavior patterns
 - Created visual reports for insights
 
+### 🔹 Bitcoin Market Sentiment Analysis
+- Analyzed relationship between Bitcoin prices and Fear & Greed Index
+- Performed data cleaning, EDA, and statistical grouping using Python
+- Extracted business insights with SQL and built Power BI dashboards
+
 ---
 
 ## 💼 Professional Experience

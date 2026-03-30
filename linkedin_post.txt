@@ -1,0 +1,17 @@
+Excited to share my newly completed Data Analyst Portfolio! 📊🚀
+
+Over the past few weeks, I’ve been working hard to consolidate my data analysis skills into a centralized portfolio. I wanted to build something that showcases not just my technical abilities in Python, SQL, Excel, and Power BI, but also my ability to derive actionable insights from raw data.
+
+Inside my portfolio, you'll find end-to-end projects covering:
+📉 Sales & Inventory Data Analysis (Python & SQL)
+👥 Customer Behavior Analysis (Data Cleaning & EDA)
+✨ Interactive Dashboards (Excel & Power BI)
+
+I'm currently seeking Data Analyst opportunities where I can leverage my problem-solving skills to drive data-informed business decisions.
+
+🌐 View my Live Portfolio: https://shankarz9704.github.io/Data-Analyst-Portfolio/Website/
+💻 Check out the GitHub Repository: https://github.com/Shankarz9704/Data-Analyst-Portfolio
+
+I'd love to hear your feedback! Let's connect if you're interested in data, or if your team is looking for a driven Data Analyst. 🤝
+
+#DataAnalytics #Python #SQL #PowerBI #DataScience #DataAnalystJobs #Hiring #OpenToWork

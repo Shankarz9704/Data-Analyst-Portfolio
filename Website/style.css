@@ -105,6 +105,7 @@ nav {
     font-weight: 800;
     margin-bottom: 0.5rem;
     background: linear-gradient(to right, #ffffff, var(--accent-color));
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -381,6 +382,17 @@ footer p {
 footer i {
     color: var(--accent-color);
     margin-right: 5px;
+}
+
+.footer-link {
+    color: var(--accent-color);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-link:hover {
+    color: var(--accent-hover);
+    text-decoration: underline;
 }
 
 /* ========= RESPONSIVE ========= */
