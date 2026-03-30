@@ -37,7 +37,7 @@ Bangalore, India | +91-7842161185 | [Email](mailto:shankar20040929@gmail.com) | 
 
 ## 💼 Professional Experience
 
-**Technical Support Engineer (Technical Expert)** | *Altruist Technologies Pvt. Ltd., Bangalore* (2025 – Mar 2026)
+**Technical Support Engineer (Technical Expert)** | *Altruist Technologies Pvt. Ltd., Bangalore* (Jul 2025 – Mar 2026)
 - Analyzed system and operational data to identify issues and trends
 - Performed root cause analysis and generated performance reports
 - Ensured SLA compliance through structured reporting and monitoring
